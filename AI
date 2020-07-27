@@ -1,0 +1,14 @@
+@inproceedings
+author = {jose gregorio hernandez calderon  y  agatha AI  inteligencia artificial}, 
+title = {AI: A General- system Programming System
+booktitle = {Proceedings on Programming Language Design and Implementation},
+año 2020 
+serie = {Goi 2020},
+ location = {SC, Tachira, Venezuela }
+  url = {},
+ doi = {12},
+ acmid = {3314642},
+ publisher = {ACM},
+ address = {SC, Tachira, Venezuela},
+ keywords = { Probabilistic programming,inference},
+} 
