@@ -9,3 +9,12 @@
 70 GO TD 5
 99 END
 
+---------------------------------------------------------
+
+
+10 IMPUNT "WHAT IS YOUR  NAME " . U$
+20 Gprint "hola "; u$
+30 GPRINT "How many atare de yoou want " , N
+40 S$ = 
+FOR I = TO N 
+
