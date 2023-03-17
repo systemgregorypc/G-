@@ -10,10 +10,15 @@ booktitle = {Proceedings on Programming Language Design and Implementation},
 año 2020 
 serie = {Goi 2020},
  location = {SC, Tachira, Venezuela }
+ location = {AR01, lah ,creahachip}
   url = {},
  doi = {12},
  acmid = {3314642},
  publisher = {ACM},
  address = {SC, Tachira, Venezuela},
+ ddress = {AR01, lah ,creahachip},
  keywords = { Probabilistic programming,inference},
 } 
+
+
+
